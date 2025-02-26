@@ -1,0 +1,5 @@
+CopilotIndices/
+CodeChunks.db*
+SemanticSymbols.db*
+v17/
+slnx.sqlite
