@@ -1,1 +1,1 @@
-Welcome to our project! [Updated in main]
+Welcome to our project! [Updated by main branch]
