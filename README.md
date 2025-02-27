@@ -1,1 +1,1 @@
-feature 6 Welcome to our project! [Updated by main branch]
+Welcome to our project! [Updated by main branch]
